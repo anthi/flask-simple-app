@@ -144,4 +144,4 @@ api.add_resource(ParticipantList, '/participants')
 api.add_resource(Participant, '/participant/<participant_id>')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
