@@ -1,4 +1,4 @@
-#!/Users/evanthiadimara/1_Code/github/learn-python/my-simple-flask-app/venv/bin/python
+#!/Users/evanthiadimara/testachille/my-simple-flask-app/venv/bin/python
 
 import sys
 import getopt
