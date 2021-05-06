@@ -48,7 +48,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==2.0.13
 Flask==1.0.3
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-MySQLdb==0.2.0
 Flask-RESTful==0.3.7
 gevent==1.2.2
